@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a Fullstack and a Web Developer<br>🦖 I code, design and develop projects for clients<br>🤓 Keep on leaning to be updated & hone my skills<br>📍 Located in Chennai, India<br><br>👨‍💻 Feel free to approach me using my socials to further projects!!
+💻 I'm a Fullstack and a Web Developer<br>🦖 I code, design and develop projects for clients<br>🤓 Keep on leaning to be updated & hone my skills<br>📍 Located in Chennai, India<br><br>👨‍💻 Feel free to approach me using my socials for further projects!!
 
 
 ## 🌐 Socials:
